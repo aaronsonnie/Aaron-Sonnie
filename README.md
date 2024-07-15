@@ -1,4 +1,4 @@
-# Power Management Tool
+# Power Manager Telemetry Tool
 
 The deployment of devices across various locations has led to a significant increase in power consumption in this modern Technology. This rise emphasizes the urgent need for corporations and governments worldwide to implement strategies for achieving net-zero power consumption. Furthermore, with electricity prices on the rise, understanding and managing the total power drawn by systems is becoming increasingly crucial for both economic and environmental reasons.
 
