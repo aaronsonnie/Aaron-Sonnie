@@ -1,6 +1,6 @@
 # Power Management Tool
 
-In the era of 5G and edge computing, the deployment of devices across various locations has led to a significant increase in power consumption. This rise emphasizes the urgent need for corporations and governments worldwide to implement strategies for achieving net-zero power consumption. Furthermore, with electricity prices on the rise, understanding and managing the total power drawn by systems is becoming increasingly crucial for both economic and environmental reasons.
+The deployment of devices across various locations has led to a significant increase in power consumption in this modern Technology. This rise emphasizes the urgent need for corporations and governments worldwide to implement strategies for achieving net-zero power consumption. Furthermore, with electricity prices on the rise, understanding and managing the total power drawn by systems is becoming increasingly crucial for both economic and environmental reasons.
 
 ## Project Objectives
 
@@ -12,36 +12,36 @@ This project aims to address the challenges of power management by focusing on t
 4. **Power Utilization Measurement**: Measure and record system power utilization, focusing specifically on CPU, NIC, and TDP based on varying input parameters related to system utilization percentages.
 
 ## Team Member
-Sarvesh Kumar R
+Aaron Sonnie
 
 ## College Mentor
-Basil Xavier
+Dr.Getzi Jeba Leelipushpam
 
 ## Key Features
 
 1. **CPU Metrics Monitoring**: The tool offers real-time monitoring of CPU utilization, allowing users to see usage percentages for each individual core. Additionally, it visualizes C-states, which represent various levels of CPU idle modes, helping to identify opportunities for energy savings.
 
-   ![CPU Metric Plots](images/cpu.png)
+   ![CPU Metric Plots](IMAGES/cpu.png)
    <div align="center">CPU Metric Plots</div>
 
 2. **Memory Usage Insights**: The application tracks system RAM usage, providing information on memory currently in use versus available memory. This helps users pinpoint memory-intensive applications and assess potential bottlenecks. Disk usage statistics are also monitored for better data management.
 
-   ![Memory Usage Plots](images/memory.png)
+   ![Memory Usage Plots](IMAGES/memory.png)
    <div align="center">Memory Usage Plots</div>
 
 3. **Temperature and Power Mode Switching**: The tool continuously monitors the temperatures of critical components (CPU, GPU, etc.) to ensure they remain within safe operational limits. Users can switch between various power modes (performance, balanced, power-saving) based on their current needs, optimizing power consumption effectively.
 
-   ![Temperature Plots](images/temp.png)
+   ![Temperature Plots](IMAGES/temp.png)
    <div align="center">Temperature Plots</div>
 
 4. **Battery and NIC Power Consumption**: Detailed battery statistics (percentage, time remaining, power state) allow users to manage battery usage more effectively. Monitoring NIC power consumption provides insights into the energy impact of network activities.
 
-   ![Battery Usage Plots](images/battery.png)
+   ![Battery Usage Plots](IMAGES/battery.png)
    <div align="center">Battery Usage Plots</div>
 
 5. **GPU Metrics Tracking**: The tool also tracks various GPU metrics, including power consumption, supply voltage, and temperature, giving users insights into the power efficiency of their graphics-related tasks.
 
-   ![GPU Metric Plots](images/gpu.png)
+   ![GPU Metric Plots](IMAGES/gpu.png)
    <div align="center">GPU Metric Plots</div>
 
 ## Docker Integration
