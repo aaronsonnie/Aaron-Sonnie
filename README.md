@@ -210,6 +210,6 @@ The Power Management Tool leverages several powerful libraries and tools to pres
 
 ## Conclusion
 
-The Power Management Tool is designed to empower users with real-time insights into system performance and energy consumption. By leveraging detailed monitoring capabilities, users can optimize their systems for efficiency and sustainability. This tool not only aids individual users in managing power consumption but also contributes to broader eco-friendly practices in computing.
+For Energy Consumption, the Power Management Tool is designed to empower users with real-time insights into system performance. By leveraging detailed monitoring capabilities, users can optimize their systems for efficiency and sustainability. This tool not only aids individual users in managing power consumption but also contributes to broader eco-friendly practices in computing.
 
-Explore the repository for more detailed information and usage instructions, and start optimizing your system today!
+Explore the repository for more detailed information and usage instructions!
